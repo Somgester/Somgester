@@ -7,13 +7,13 @@
 
 ##### *Academics*
 
-- CS2003 - DataBase And Management System. 
-- CS2002 - Computer Organization And Architecture.
-- IT2001 - Data Structures And Algorithms Using C.
+- Operating Systems
+- No SQL DataBase
+- Analysing The Algorithms
 
 #### *Non - Academics*
 
-- I'm Learning Spring Boot And Flutter.
+- I'm Learning Spring Boot.
 
 ## Languages I'm Skilled in
 
@@ -21,8 +21,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
