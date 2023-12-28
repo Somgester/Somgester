@@ -37,7 +37,7 @@
 
 <div align="center">
   <a href="mailto: dhruvratmele13@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=yellow" width="70" height="30" alt="gmail logo"/>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="30" alt="gmail logo"/>
   </a>
   <a href="https://www.linkedin.com/in/dhruv-ratmele-8bb167259" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="52" height="30" alt="linkedin logo" />
