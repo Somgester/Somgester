@@ -52,5 +52,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Somgester&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=true&order=2" height="167" alt="languages graph"  />
 </div>
 <div align = "center">
-<img src="https://camo.githubusercontent.com/1bcfe04e9f53d37f49a41f3fe8496652c0282dcc55327e2a00b4f03e32e68f9f/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d7269636f6279746572266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="profile views">
+<img src="https://komarev.com/ghpvc/?username=Somgester&label=Profile%20views&color=0e75b6&style=flat" alt="Somgester" /> </p>
 </div>
