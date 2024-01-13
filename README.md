@@ -42,9 +42,6 @@
   <a href="https://www.linkedin.com/in/dhruv-ratmele-8bb167259" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="52" height="30" alt="linkedin logo" />
   </a>
-  <a href = "https://leetcode.com/somgester13/" target="_blank"> 
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ALeetCode_logo_black.png&psig=AOvVaw1OZthIvCQbDsH6UpcdlpkI&ust=1705230462527000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKDQodWc2oMDFQAAAAAdAAAAABAD" width="52" height="30" alt="leetcode logo" />
-  </a>
 </div>
 
 ## GitHub Stats
