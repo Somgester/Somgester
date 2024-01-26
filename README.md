@@ -10,6 +10,7 @@
 - Operating Systems
 - No SQL DataBase
 - Analysing The Algorithms
+- Computer Networks
 
 #### *Non - Academics*
 
