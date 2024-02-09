@@ -1,16 +1,16 @@
 # 👋 Hey, I'm Dhruv Ratmele AKA @Somgester
 
-- I'm CSE Sophomore @IIIT - J
-- 👀 I’m interested in Web Developing And Programming,with a special interest in java
+- I'm CSE UnderGrad @IIIT - J
+- 👀 I’m Interested In Developing Webs/Apps And Programming With A Special Interest In Java.
 
 ## 🌱 Currently Learning
 
 ##### *Academics*
 
-- Operating Systems
-- No SQL DataBase
-- Analysing The Algorithms
-- Computer Networks
+- Operating Systems.
+- No SQL DataBase(MongoDB And FireBase).
+- Analysing The Algorithms And Dynamic Programming.
+- Computer Networks And Data Communications.
 
 #### *Non - Academics*
 
