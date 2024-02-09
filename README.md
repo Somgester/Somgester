@@ -38,8 +38,6 @@
 ## 📫 Reach Me Through
 
 <div align="center">
-  <a href="https://www.instagram.com/dhuwuvufff/" target="_blank">
-    <img src="[https://creazilla-store.fra1.digitaloceanspaces.com/icons/3233593/instagram-icon-md.png](https://res.cloudinary.com/practicaldev/image/fetch/s--4mg2SdSW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/mishmanners/MishManners/raw/master/socials/instagram.png)" width="52" height="30" alt="Instagram logo">
   <a href="mailto: dhruvratmele13@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="30" alt="gmail logo"/>
   </a>
