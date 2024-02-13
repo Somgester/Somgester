@@ -5,8 +5,11 @@
 <b>Tech Enthusiast | IIIT Jabalpur | Aspiring Web Developer</b>
 <br />
 Driven by innovation and passionate about shaping the future with technology. 
+<br />
 Currently pursuing B.Tech With CSE at IIIT Jabalpur 🎓
+<br />
 I'm constantly seeking new challenges and opportunities to learn and grow.
+<br />
 - Interested in Web/App Development and Java Programming
 - Currently learning various topics including OS,
 - Algorithms Designing And Analysis,
