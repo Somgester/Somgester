@@ -34,11 +34,11 @@
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/somgester13/)
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Somgester&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=1height=150)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Somgester&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=1height=50)
 
-![Streak Graph](https://streak-stats.demolab.com?user=Somgester&locale=en&mode=daily&theme=react&hide_border=true&border_radius=5&order=3height=150)
+![Streak Graph](https://streak-stats.demolab.com?user=Somgester&locale=en&mode=daily&theme=react&hide_border=true&border_radius=5&order=3height=50)
 
-![Languages Graph](https://github-readme-stats.vercel.app/api/top-langs?username=Somgester&locale=en&hide_title=false&layout=compact&card_height=165&langs_count=5&theme=react&hide_border=true&order=2)
+![Languages Graph](https://github-readme-stats.vercel.app/api/top-langs?username=Somgester&locale=en&hide_title=false&layout=compact&card_height=100&langs_count=5&theme=react&hide_border=true&order=2)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Somgester&label=Profile%20views&color=0e75b6&style=flat)
 </div>
