@@ -9,10 +9,9 @@
 - Dynamic Programming,
 - Computer Networks
 - Spring Boot
-  
+
+## Skills And Languages I Know
 <div align="center">
-## Skills
-### Languages & Tools:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
