@@ -78,9 +78,4 @@
 <div align = "center">
 <img src="https://komarev.com/ghpvc/?username=Somgester&label=Profile%20views&color=0e75b6&style=flat" alt="Somgester" /> </p>
 </div>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Somgester&label=Profile%20views&color=0e75b6&style=flat)
-</div>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Somgester&label=Profile%20views&color=0e75b6&style=flat)
 </div>
