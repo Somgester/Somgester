@@ -1,14 +1,13 @@
 # 👋 Hi there, I'm Dhruv Ratmele, Aka @Somgester
 
 ## About Me
-- 🎓 Computer Science And Engineering Undergraduate at IIIT-J
-- 👀 Interested in Web/App Development and Java Programming
-- 🌱 Currently learning various topics including Operating Systems,
-- NoSQL Databases,
+- Computer Science And Engineering Undergraduate at IIIT-J 🎓 
+- Interested in Web/App Development and Java Programming
+- Currently learning various topics including OS,
 - Algorithms Designing And Analysis,
 - Dynamic Programming,
 - Computer Networks
-- Spring Boot
+- Spring Boot (non - academic)
 
 ## Skills And Languages I Know
 <div align="center">
@@ -32,19 +31,6 @@
 [![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhruvratmele13@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruv-ratmele-8bb167259)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/somgester13/)
-
-## GitHub Stats
-# 👋 Hi there, I'm Dhruv Ratmele, Aka @Somgester
-
-## About Me
-- 🎓 Computer Science And Engineering Undergraduate at IIIT-J
-- 👀 Interested in Web/App Development and Java Programming
-- 🌱 Currently learning various topics including Operating Systems,
-- NoSQL Databases,
-- Algorithms Designing And Analysis,
-- Dynamic Programming,
-- Computer Networks
-- Spring Boot
 
 ## Skills And Languages I Know
 <div align="center">
