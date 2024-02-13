@@ -1,12 +1,16 @@
-<div align="center">
-  
-# 👋 Hi there, I'm Dhruv Ratmele, also known as @Somgester
+# 👋 Hi there, I'm Dhruv Ratmele, Aka @Somgester
 
 ## About Me
-- 🎓 Computer Science Engineering Undergraduate at IIIT-J
+- 🎓 Computer Science And Engineering Undergraduate at IIIT-J
 - 👀 Interested in Web/App Development and Java Programming
-- 🌱 Currently learning various topics including Operating Systems, NoSQL Databases, Algorithms, Dynamic Programming, Computer Networks, and Spring Boot
-
+- 🌱 Currently learning various topics including Operating Systems,
+- NoSQL Databases,
+- Algorithms,
+- Dynamic Programming,
+- Computer Networks
+- Spring Boot
+  
+<div align="center">
 ## Skills
 ### Languages & Tools:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
