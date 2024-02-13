@@ -1,7 +1,10 @@
 # 👋 Hi there, I'm Dhruv Ratmele, Aka @Somgester
 
 ## About Me
-- Computer Science And Engineering Undergraduate at IIIT-J 🎓 
+
+Tech Enthusiast | IIIT Jabalpur | Aspiring Web Developer
+Driven by innovation and passionate about shaping the future with technology. 
+Currently pursuing B.Tech With CSE at IIIT Jabalpur 🎓, I'm constantly seeking new challenges and opportunities to learn and grow.
 - Interested in Web/App Development and Java Programming
 - Currently learning various topics including OS,
 - Algorithms Designing And Analysis,
@@ -26,11 +29,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="40" alt="mongo db" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo" title="Firebase" />
-
-## Reach Me Through
-[![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhruvratmele13@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruv-ratmele-8bb167259)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/somgester13/)
 
 ## Skills And Languages I Know
 <div align="center">
