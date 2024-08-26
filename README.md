@@ -1,6 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="34px"> Hi there, I'm Dhruv Ratmele AKA @Somgester
-
-## About Me
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="34px"> Hey there, I'm Dhruv Ratmele AKA @Somgester
 **Tech Enthusiast | Aspiring Web Developer | IIIT Jabalpur**  
 Driven by innovation and passionate about shaping the future with technology.  
 Currently pursuing a B.Tech in Computer Science and Engineering at IIIT Jabalpur 🎓  
@@ -12,7 +10,7 @@ I'm constantly seeking new challenges and opportunities to learn and grow.
     - Artificial Intelligence
     - Network Security And Cryptography
     - Hardware Security
-  - Spring Boot, Flutter Framework (non-academic).
+- Exploring: Spring Boot, Flutter Framework.
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 <br/>
@@ -70,11 +68,11 @@ I'm constantly seeking new challenges and opportunities to learn and grow.
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Somgester&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true" height="159" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Somgester&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="159" width="350" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=Somgester&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5" height="159" width="350" alt="Streak Stats" />
   <br />
-  <img src="https://streak-stats.demolab.com?user=Somgester&locale=en&mode=daily&theme=react&hide_border=true&border_radius=5" height="150" alt="Streak Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Somgester&locale=en&hide_title=false&layout=compact&card_width=380&langs_count=5&theme=react&hide_border=true" height="167" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Somgester&locale=en&hide_title=false&layout=compact&card_width=700&langs_count=5&theme=dark&hide_border=true" height="140" alt="Top Languages" />
+
 </div>
 
   <p align="center">
