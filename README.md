@@ -14,6 +14,12 @@ I'm constantly seeking new challenges and opportunities to learn and grow.
     - Hardware Security
   - Spring Boot, Flutter Framework (non-academic).
 
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<br/>
+<hr>
+⚡ Fun Fact: I’m a passionate reader of fictional novels and a dedicated manga and anime enthusiast.
+      When I'm not coding or exploring new technologies, you can usually find me with a good manga or novel in hand.
+
 ## Skills and Languages
 
 <div align="center">
@@ -36,13 +42,15 @@ I'm constantly seeking new challenges and opportunities to learn and grow.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="Firebase logo" />
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="Dart" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="Flutter" />
 </div>
 
 ## Reach Me Through
+<a href="mailto:dhruvratmele13@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/dhruv-ratmele-8bb167259"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://leetcode.com/somgester13/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
 
-[![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhruvratmele13@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruv-ratmele-8bb167259)  
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/somgester13/)
 
 ## GitHub Stats
 
@@ -57,12 +65,4 @@ I'm constantly seeking new challenges and opportunities to learn and grow.
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Somgester&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   <br/>
-  ⚡ Fun Fact: I’m a passionate reader of fictional novels and a dedicated manga and anime enthusiast.
-      When I'm not coding or exploring new technologies, you can usually find me with a good manga or novel in hand.
 </div>
-
-
-
-## Favorite Quote
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
