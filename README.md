@@ -78,6 +78,6 @@ I'm constantly seeking new challenges and opportunities to learn and grow.
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Somgester&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  
   <br/>
 </div>
