@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Dhruv Ratmele (aka @Somgester)
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="34px"> Hi there, I'm Dhruv Ratmele AKA @Somgester
 
 ## About Me
 **Tech Enthusiast | Aspiring Web Developer | IIIT Jabalpur**  
@@ -17,10 +17,10 @@ I'm constantly seeking new challenges and opportunities to learn and grow.
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 <br/>
 <hr>
-⚡ Fun Fact: I’m a passionate reader of fictional novels and a dedicated manga and anime enthusiast.
-      When I'm not coding or exploring new technologies, you can usually find me with a good manga or novel in hand.
+⚡ <b>Fun Fact:</b> <i>I’m a passionate reader of fictional novels and a dedicated manga and anime enthusiast.
+      When I'm not coding or exploring new technologies, you can usually find me with a good manga or novel in hand.</i>
 
-## Skills and Languages
+## Languages And Frameworks
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" />
@@ -47,9 +47,24 @@ I'm constantly seeking new challenges and opportunities to learn and grow.
 </div>
 
 ## Reach Me Through
-<a href="mailto:dhruvratmele13@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://www.linkedin.com/in/dhruv-ratmele-8bb167259"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://leetcode.com/somgester13/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+<a href="mailto:dhruvratmele13@gmail.com">
+        <img class="badge" src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://www.linkedin.com/in/dhruv-ratmele-8bb167259">
+        <img class="badge" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://leetcode.com/somgester13/">
+        <img class="badge" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+    </a>
+    <a href="https://www.instagram.com/dhuwuvufff/">
+        <img class="badge" src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" alt="Instagram" height="28" />
+    </a>
+    <a href="https://t.me/somgester">
+        <img class="badge" src="https://img.shields.io/badge/-telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" height="28" />
+    </a>
+    <a href="http://discord.com/users/somgester">
+        <img class="badge" src="https://img.shields.io/badge/-discord-purple?style=for-the-badge&logo=discord&logoColor=white" />
+    </a>
 
 
 ## GitHub Stats
@@ -59,7 +74,7 @@ I'm constantly seeking new challenges and opportunities to learn and grow.
   <br />
   <img src="https://streak-stats.demolab.com?user=Somgester&locale=en&mode=daily&theme=react&hide_border=true&border_radius=5" height="150" alt="Streak Stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Somgester&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=true" height="167" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Somgester&locale=en&hide_title=false&layout=compact&card_width=380&langs_count=5&theme=react&hide_border=true" height="167" alt="Top Languages" />
 </div>
 
 <div align="center">
