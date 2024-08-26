@@ -78,8 +78,6 @@ I'm constantly seeking new challenges and opportunities to learn and grow.
 </div>
 
   <p align="center">
-  <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=Somgester&icon=2&color=1" alt="Visit Count">
-  </a>
 </p>
   <br/>
