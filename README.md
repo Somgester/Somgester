@@ -77,7 +77,9 @@ I'm constantly seeking new challenges and opportunities to learn and grow.
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Somgester&locale=en&hide_title=false&layout=compact&card_width=380&langs_count=5&theme=react&hide_border=true" height="167" alt="Top Languages" />
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Somgester&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=Somgester&icon=2&color=1" alt="Visit Count">
+  </a>
+</p>
   <br/>
-</div>
