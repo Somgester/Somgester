@@ -31,9 +31,13 @@ I'm constantly seeking new challenges and opportunities to learn and grow.
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
   <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" alt="TailwindCSS logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="NodeJs logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo" />
   <img width="12" />
@@ -45,7 +49,7 @@ I'm constantly seeking new challenges and opportunities to learn and grow.
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql" />
     <img width="12" />
-  <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=Github&logoColor=white" height="30" alt="mysql" />
+  <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=Github&logoColor=white" height="30" alt="GitHub" />
 </div>
 
 ## Reach Me Through
