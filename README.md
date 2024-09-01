@@ -44,6 +44,8 @@ I'm constantly seeking new challenges and opportunities to learn and grow.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="Flutter" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql" />
+    <img width="12" />
+  <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=Github&logoColor=white" height="30" alt="mysql" />
 </div>
 
 ## Reach Me Through
@@ -75,6 +77,10 @@ I'm constantly seeking new challenges and opportunities to learn and grow.
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Somgester&locale=en&hide_title=false&layout=compact&card_width=700&langs_count=5&theme=dark&hide_border=true" height="150" alt="Top Languages" />
 
+</div>
+
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Somgester&theme=react-dark&bg_color=00000000&color=4D89F9&line=4D89F9&point=007EC6&area=true&hide_border=true&area_color=#a8c7ff" alt="GitHub activity graph" />
 </div>
 
   <p align="center">
