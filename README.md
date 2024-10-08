@@ -71,9 +71,6 @@ I'm constantly seeking new challenges and opportunities to learn and grow.
     <a href="http://discord.com/users/somgester">
         <img class="badge" src="https://img.shields.io/badge/-discord-purple?style=for-the-badge&logo=discord&logoColor=white" />
     </a>
-        <a href="https://reddit.com/u/somgester">
-        <img class="badge" src="https://img.shields.io/badge/-reddit-red?style=for-the-badge&logo=reddit&logoColor=white" alt="reddit" />
-    </a>
     <a href="https://x.com/somgester">
         <img class="badge" src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="twitter" height="28" />
     </a>
