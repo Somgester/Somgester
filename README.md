@@ -52,6 +52,8 @@ I'm constantly seeking new challenges and opportunities to learn and grow.
   <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=Github&logoColor=white" height="30" alt="GitHub" />
 </div>
 
+[![Holopin](https://holopin.me/somgester)](https://holopin.io/@somgester)
+
 ## Reach Me Through
 <a href="mailto:dhruvratmele13@gmail.com">
         <img class="badge" src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
