@@ -67,7 +67,7 @@ I'm constantly seeking new challenges and opportunities to learn and grow.
     <a href="https://www.instagram.com/dhuwuvufff/">
         <img class="badge" src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" alt="Instagram" height="28" />
     </a>
-    <a href="https://t.me/somgester">
+    <a href="https://t.me/emptyUsernameInCamelCase">
         <img class="badge" src="https://img.shields.io/badge/-telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" height="28" />
     </a>
     <a href="http://discord.com/users/somgester">
