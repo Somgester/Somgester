@@ -5,11 +5,6 @@ Currently pursuing a B.Tech in Computer Science and Engineering at IIIT Jabalpur
 I'm constantly seeking new challenges and opportunities to learn and grow.
 <br/>
 - Interested in Web/App Development and Java Programming
-- Currently learning:
-    - Software Engineering
-    - Artificial Intelligence
-    - Network Security And Cryptography
-    - Hardware Security
 - Exploring: Spring Boot, Flutter Framework.
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
