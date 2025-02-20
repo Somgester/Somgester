@@ -88,17 +88,11 @@ I'm constantly seeking new challenges and opportunities to learn and grow.
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Somgester&theme=react-dark&bg_color=00000000&color=4D89F9&line=4D89F9&point=007EC6&area=true&hide_border=true&area_color=#a8c7ff" alt="GitHub activity graph" />
 </div>
 
-  <p align="center">
-    <img src="https://visitcount.itsvg.in/api?id=Somgester&icon=2&color=1" alt="Visit Count">
-</p>
 <div align="center">
 
 <a href="https://github.com/Somgester">
   <img src="https://komarev.com/ghpvc/?username=Somgester&color=ff69b4&style=for-the-badge" alt="Profile Views" />
 </a>  
-
-![GitHub Follow](https://img.shields.io/github/followers/Somgester?label=Follow%20Me%20%21%21&style=social)  
-[![GitHub Stars](https://img.shields.io/github/stars/Somgester?style=social)](https://github.com/Somgester)  
 
 </div>
 
