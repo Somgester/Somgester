@@ -1,8 +1,8 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="34px"> Hey there, I'm Dhruv Ratmele AKA @Somgester
-**Tech Enthusiast | Aspiring Web Developer | IIIT Jabalpur**  
-Driven by innovation and passionate about shaping the future with technology.  
-Currently pursuing a B.Tech in Computer Science and Engineering at IIIT Jabalpur 🎓  
-I'm constantly seeking new challenges and opportunities to learn and grow.
+**Tech Enthusiast | Web Developer | IIIT Jabalpur**  
+Currently Third-year and pursuing B.Tech in Computer Science and Engineering at IIIT Jabalpur 🎓  
+I'm passionate about web developemnt and have hands-on experience which frameworks like React, Vue, Tailwind and MERN stack.
+I'm proficient in Java, C, Python, I enjoy building scalable and dynamic websites to expand my knowledge and excited to collaborate in real world projects in future.
 <br/>
 - Interested in Web/App Development and Java Programming
 - Exploring: Spring Boot, Flutter Framework.
