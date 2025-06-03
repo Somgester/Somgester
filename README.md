@@ -1,6 +1,6 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="34px"> Hey there, I'm Dhruv Ratmele AKA @Somgester
 **Tech Enthusiast | Web Developer | IIIT Jabalpur**  
-Currently Third-year and pursuing B.Tech in Computer Science and Engineering at IIIT Jabalpur 🎓  
+A Final Year and pursuing B.Tech in Computer Science and Engineering at IIIT Jabalpur 🎓  
 I'm passionate about web developemnt and have hands-on experience which frameworks like React, Vue, Tailwind and MERN stack.
 I'm proficient in Java, C, Python, I enjoy building scalable and dynamic websites to expand my knowledge and excited to collaborate in real world projects in future.
 <br/>
@@ -58,6 +58,9 @@ I'm proficient in Java, C, Python, I enjoy building scalable and dynamic website
     </a>
     <a href="https://leetcode.com/somgester13/">
         <img class="badge" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+    </a>
+    <a href="https://codeforces.com/profile/somgester13">
+          <img class="badge" src="https://img.shields.io/badge/-CodeForces-DC143C?style=for-the-badge&logo=codeforces&logoColor=yellow" alt="CodeForces"/>
     </a>
     <a href="https://www.instagram.com/dhuwuvufff/">
         <img class="badge" src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" alt="Instagram" height="28" />
