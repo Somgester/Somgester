@@ -59,9 +59,6 @@ I'm proficient in Java, C, Python, I enjoy building scalable and dynamic website
     <a href="https://leetcode.com/somgester13/">
         <img class="badge" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
     </a>
-    <a href="https://codeforces.com/profile/somgester13">
-          <img class="badge" src="https://img.shields.io/badge/-CodeForces-DC143C?style=for-the-badge&logo=codeforces&logoColor=yellow" alt="CodeForces"/>
-    </a>
     <a href="https://www.instagram.com/dhuwuvufff/">
         <img class="badge" src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" alt="Instagram" height="28" />
     </a>
