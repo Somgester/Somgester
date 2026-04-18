@@ -72,21 +72,34 @@ I'm proficient in Java, C, Python, I enjoy building scalable and dynamic website
         <img class="badge" src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="twitter" height="28" />
     </a>
 
-
-
-## GitHub Stats
+<br/>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Somgester&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="159" width="350" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=Somgester&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5" height="159" width="350" alt="Streak Stats" />
-  <br />
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Somgester&locale=en&hide_title=false&layout=compact&card_width=700&langs_count=5&theme=dark&hide_border=true" height="150" alt="Top Languages" /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Somgester&locale=en&hide_title=false&layout=compact&card_width=700&langs_count=5&theme=dark&hide_border=true&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
+<br/>
+<!-- Stats + Streak -->
+<img src="https://github-readme-stats.vercel.app/api?username=Somgester&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&border_radius=8" height="165" />
+<img src="https://streak-stats.demolab.com?user=Somgester&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=8" height="165" />
 
-</div>
+<br/>
 
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Somgester&theme=react-dark&bg_color=00000000&color=4D89F9&line=4D89F9&point=007EC6&area=true&hide_border=true&area_color=#a8c7ff" alt="GitHub activity graph" />
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Somgester&locale=en&hide_title=false&layout=compact&card_width=700&langs_count=6&theme=radical&hide_border=true&border_radius=8&size_weight=0.5&count_weight=0.5" />
+
+<br/>
+
+<!-- Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=Somgester&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" />
+
+<br/>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Somgester&bg_color=0d1117&color=fe428e&line=fe428e&point=a9fef7&area=true&hide_border=true&area_color=fe428e22" />
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/Somgester/Somgester/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+
+
 </div>
 
 <div align="center">
