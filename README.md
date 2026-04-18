@@ -88,7 +88,7 @@ I'm proficient in Java, C, Python, I enjoy building scalable and dynamic website
 <br/>
 
 <!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=Somgester&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Somgester&theme=radical" />
 
 <br/>
 
