@@ -73,39 +73,39 @@ I wonder whatever is wonderful :)
 
 <br/>
 
-<div align="center">
-<br/>
-<!-- Stats + Streak -->
-<img src="https://github-readme-stats.vercel.app/api?username=Somgester&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&border_radius=8" height="165" />
-<img src="https://streak-stats.demolab.com?user=Somgester&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=8" height="165" />
-
-<br/>
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Somgester&locale=en&hide_title=false&layout=compact&card_width=700&langs_count=6&theme=radical&hide_border=true&border_radius=8&size_weight=0.5&count_weight=0.5" />
-
-<br/>
-
-<!-- Trophies -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Somgester&theme=radical" />
-
-<br/>
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Somgester&bg_color=0d1117&color=fe428e&line=fe428e&point=a9fef7&area=true&hide_border=true&area_color=fe428e22" />
+<table>
+  <tr>
+    <td width="50%">
+      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Somgester&theme=dark&hide_border=true&background=2e3440&ring=88c0d0&fire=88c0d0&currStreakLabel=88c0d0"/>
+    </td>
+    <td width="50%">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Somgester&theme=nord_dark"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img width="100%" src="https://github-readme-stats-plum-one-24.vercel.app/api/top-langs/?username=Somgester&hide=html,css,jupyter+notebook,shell&langs_count=6&layout=compact&theme=dark&hide_border=true&bg_color=2e3440&title_color=88c0d0&text_color=ffffff"/>
+    </td>
+    <td width="50%">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Somgester&theme=nord_dark"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://komarev.com/ghpvc/?username=Somgester&style=for-the-badge&color=2e3440&label=PROFILE+VIEWS&abbreviated=true"/>
+      &nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/Contributions%20(All%20Time)-1600%2B-2e3440?style=for-the-badge&logo=github&logoColor=white"/>
+      &nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/Commits%20(Last%2012mo)-792-2e3440?style=for-the-badge&logo=git&logoColor=white"/>
+      &nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/Public%20Repos-55-2e3440?style=for-the-badge&logo=github&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
 <img src="https://raw.githubusercontent.com/Somgester/Somgester/output/github-contribution-grid-snake-dark.svg" alt="snake" />
-
-
 </div>
 
-<div align="center">
-
-<a href="https://github.com/Somgester">
-  <img src="https://komarev.com/ghpvc/?username=Somgester&color=ff69b4&style=for-the-badge" alt="Profile Views" />
-</a>  
-
-</div>
 
